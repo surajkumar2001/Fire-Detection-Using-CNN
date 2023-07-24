@@ -1,0 +1,1 @@
+This is the MobileNet model used for the project and it is saved in .h5 extension in the saved_model section of the project.

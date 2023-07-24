@@ -1,0 +1,6 @@
+In this folder, there are two python scripts:
+1. frames - The purpose of this script is to extract images from a video file. 
+2. DatasetSplitter - The purpose of this script is to randomly select images and move it to another folder. This ensures that test and train dataset are created randomly. 
+
+The practical application of this section is to extract images from a video so that it can be later fed into the model to be predicted for 
+fire and non-fire images. 
